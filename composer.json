@@ -1,0 +1,16 @@
+{
+  "name": "bjm/sample-auto-update-plugin",
+  "description": "Blocks functionality from BJM Team",
+  "type": "wordpress-plugin",
+  "license": "GPL2",
+  "authors": [
+    {
+      "name": "BJM Team",
+      "email": "developers@bjmdigital.com.au"
+    }
+  ],
+  "require": {
+    "gamajo/template-loader": "^1.3",
+    "yahnis-elsts/plugin-update-checker": "^4.11"
+  }
+}
