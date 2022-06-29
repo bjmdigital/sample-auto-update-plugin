@@ -20,7 +20,7 @@
  * Requires PHP:      7.0
  * Requires at least: 5.0
  * Tested up to:      5.9
- * Version:           1.0.1
+ * Version:           1.0.2
  * Author:            BJM Team
  * Author URI:        https://bjmdigital.com.au/
  * License:           GPL-2.0+
@@ -40,8 +40,8 @@ if ( ! defined( 'WPINC' ) ) {
  * Rename this for your plugin and update it as you release new versions.
  */
 
-if ( ! defined( 'SAMPLE_PLUGIN_PLUGIN_FILE' ) ) {
-	define( 'SAMPLE_PLUGIN_PLUGIN_FILE', __FILE__ );
+if ( ! defined( 'SAMPLE_AUTO_UPDATE_PLUGIN_PLUGIN_FILE' ) ) {
+	define( 'SAMPLE_AUTO_UPDATE_PLUGIN_PLUGIN_FILE', __FILE__ );
 }
 
 
