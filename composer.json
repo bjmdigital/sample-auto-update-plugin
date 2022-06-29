@@ -10,7 +10,6 @@
     }
   ],
   "require": {
-    "gamajo/template-loader": "^1.3",
     "yahnis-elsts/plugin-update-checker": "^4.11"
   }
 }
