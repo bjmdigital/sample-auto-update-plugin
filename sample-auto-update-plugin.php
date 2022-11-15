@@ -14,13 +14,13 @@
  * @package           Sample Auto Update Plugin
  *
  * @wordpress-plugin
- * Plugin Name:       Sample Auto Update Plugin 1.0.5
+ * Plugin Name:       Sample Auto Update Plugin 1.0.6
  * Plugin URI:        https://blokki.com/
  * Description:       Blocks functionality from BJM Team
  * Requires PHP:      7.0
  * Requires at least: 5.0
  * Tested up to:      5.9
- * Version:           1.0.5
+ * Version:           1.0.6
  * Author:            BJM Team
  * Author URI:        https://bjmdigital.com.au/
  * License:           GPL-2.0+
