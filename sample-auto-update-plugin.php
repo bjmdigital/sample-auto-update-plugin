@@ -14,13 +14,13 @@
  * @package           Sample Auto Update Plugin
  *
  * @wordpress-plugin
- * Plugin Name:       Sample Auto Update Plugin
+ * Plugin Name:       Sample Auto Update Plugin 1.0.6
  * Plugin URI:        https://blokki.com/
  * Description:       Blocks functionality from BJM Team
  * Requires PHP:      7.0
  * Requires at least: 5.0
  * Tested up to:      5.9
- * Version:           1.0.4
+ * Version:           1.0.6
  * Author:            BJM Team
  * Author URI:        https://bjmdigital.com.au/
  * License:           GPL-2.0+
@@ -67,7 +67,7 @@ function saup_run_update_checker(){
 	);
 //
 	//Optional: If you're using a private repository, specify the access token like this:
-	$myUpdateChecker->setAuthentication('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');
+//	$myUpdateChecker->setAuthentication('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');
 	$myUpdateChecker->getVcsApi()->enableReleaseAssets();
 }
 
