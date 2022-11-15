@@ -19,8 +19,8 @@
  * Description:       Blocks functionality from BJM Team
  * Requires PHP:      7.0
  * Requires at least: 5.0
- * Tested up to:      5.9
- * Version:           1.0.6
+ * Tested up to:      6.0.3
+ * Version:           1.0.7
  * Author:            BJM Team
  * Author URI:        https://bjmdigital.com.au/
  * License:           GPL-2.0+
